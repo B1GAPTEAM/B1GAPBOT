@@ -4,7 +4,7 @@ function run(msg, matches)
 
 local mods = [[ 
 راهنما فارسی مدیران :
-@telemanager_ch
+@B1GAPBOT
 
 !kick [Username | ID | Reply]
 
@@ -65,7 +65,7 @@ member
  local admin = [[ 
  
  راهنمای فارسی ادمین ها :
- @telemanager_ch
+ @B1GAPBOT
  
  !banall [Reply | ID | Username]
  
@@ -108,7 +108,7 @@ member
  local owner = [[
  
  راهنمای فارسی صاحبان گروه :
- @telemanager_ch
+ @B1GAPBOT
  
  !promote [Reply | ID | Username]
  
@@ -141,7 +141,7 @@ member
  local member = [[
  
  راهنمای فارسی عضو ها :
- @telemanager_ch
+ @B1GAPBOT
  
  !calc [formula]
  
@@ -167,8 +167,6 @@ member
  
  !share
  
- !telemanagerplus
- 
  !sticker [TXT]
  ==========================
  جهت دریافت راهنمای رنک های دیگر میتوانید از دستورات زیر استفاده کنید :
@@ -187,7 +185,7 @@ member
  local sudo = [[
  
  راهنما فارسی سودو ها :
- @telemanager_ch
+ @B1GAPBOT
  
  !addadmin [ID | Username]
  
